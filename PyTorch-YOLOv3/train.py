@@ -1,6 +1,6 @@
 from __future__ import division
 
-from models import *
+from models_yolo import *
 from utils.logger import *
 from utils.utils import *
 from utils.datasets import *
