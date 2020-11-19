@@ -9,6 +9,6 @@
 ## Steps: 
 1. Open: https://colab.research.google.com
 2. Then File -> Open Notebook
-3. Select GITHUB, and Copy & Paste this reoposatory URL: https://github.com/heshameraqi/object-detection-dl-workshop
+3. Select GitHub, and Copy & Paste this reoposatory URL: https://github.com/heshameraqi/object-detection-dl-workshop
 4. Open Object_Detection_with_Deep_Learning.ipynb
 5. Execute it step by step, and learn by filling the "..." places! :)
