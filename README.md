@@ -4,8 +4,6 @@
 
 (early version presented in IndabaX Egypt'19)
 
-===============
-
 ## Steps: 
 1. Open: https://colab.research.google.com
 2. Then File -> Open Notebook
