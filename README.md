@@ -1,7 +1,9 @@
 # object-detection-dl-workshop
 
 **Introduction to Object Detection using Deep Learning**
+
 **Hesham Eraqi**
+
 Senior Expert of AI, Valeo Group
 Adjunct Faculty/Lecturer, Computer Engineering department, the American University in Cairo
 (early version presented in IndabaX Egypt'19)
