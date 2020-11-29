@@ -1,4 +1,4 @@
-# Introduction to Object Detection using Deep Learning\
+# Introduction to Object Detection using Deep Learning
 **Hesham Eraqi**\
 Senior Expert (Director) of AI & Chief AI Scientist, Valeo\
 Adjunct Faculty, CSE & MENG departments, the American University in Cairo\
